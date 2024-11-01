@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# CIDM Management Dashboard
 
 ## Getting Started
 
